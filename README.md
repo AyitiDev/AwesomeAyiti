@@ -14,6 +14,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 - [Startups](#startups)
 - [AI & Machine Learning](#ai--machine-learning)
 - [Cybersecurity](#cybersecurity)
+- [Games & Simulations](#games--simulations)
 - [Hardware & IoT](#hardware--iot)
 - [Events](#events)
 
@@ -73,6 +74,19 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 
 - [Ayitic](https://ayitic.net) — LACNIC's cooperation project strengthening Haitian cybersecurity professionals through training in CSIRT operations, network security, and incident response.
 - [Cyber Security Haiti](https://cybersecurityhaiti.com) — G5 Cyber Security's Haiti-dedicated hub providing cybersecurity services, threat intelligence, and awareness for the Haitian market.
+
+## Games & Simulations
+
+> Video games, board games, and interactive simulations by Haitian creators.
+
+- [KatKat Game](https://www.katkatgame.com) — Haiti's leading video game studio since 2014, creators of *Nèg Bannann*, Google Launchpad alum, and Innovatic award winner.
+- [Krik Krak](https://www.krikrakgames.com) — Haitian board game company preserving cultural heritage through traditional games, reconnecting the diaspora with their roots.
+- [Depale™](https://depalehaiti.com) — The Haitian party game — a card/board game celebrating Haitian language, culture, and humor.
+- [Haitian Quest](https://rattlerstudios.itch.io/haitianquest) — A fast-paced 2D side-scrolling platformer where you race through Haitian streets to make it to church on time.
+- [Anba Lavil](https://www.chokarella.com/2026/04/10/carel-in-the-morning-anba-lavil-un-jeu-video-haitien-en-developpement-porte-par-met-istwa) — An independent 3D video game by Mèt Istwa, exploring urban life and stories from Haiti's streets.
+- [BOHIO Generation](https://nico-arch.itch.io/bohio-generation) — A sci-fi transmedia project (comic + video game) rooted in Haitian cultural heritage and post-earthquake narratives.
+- [Monopoly Haiti](https://www.monopoly-haiti.com) — Haitian edition of the classic board game, available in English, French, and Kreyòl.
+- [duckyMAT](https://duckymat.itch.io) — A Haitian indie game developer and animator building original games with GameMaker.
 
 ## Hardware & IoT
 
