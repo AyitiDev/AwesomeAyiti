@@ -42,7 +42,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 > Tutorials, courses, books, and educational materials.
 
 - [Kaw Academy](https://kawacademy.com) — A digital trade school teaching web design, marketing, and tech skills entirely in Haitian Creole (150K+ students).
-- [Aprann](https://www.aprann.org) — Fighting poverty through tech education — laptops, training, and job creation partnerships in Haiti.
+- [Aprann](https://www.aprann.org) — Fighting poverty through tech education with laptops, training, and job creation partnerships in Haiti.
 - [Ayitic Goes Global](https://ayitic.net/en/itpros.html) — LACNIC's cooperation project offering tutored online courses in networking, security, CSIRT operations, IPv6, and DNS for Haitian IT professionals.
 
 ## Startups
@@ -81,7 +81,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 
 - [KatKat Game](https://www.katkatgame.com) — Haiti's leading video game studio since 2014, creators of *Nèg Bannann*, Google Launchpad alum, and Innovatic award winner.
 - [Krik Krak](https://www.krikrakgames.com) — Haitian board game company preserving cultural heritage through traditional games, reconnecting the diaspora with their roots.
-- [Depale™](https://depalehaiti.com) — The Haitian party game — a card/board game celebrating Haitian language, culture, and humor.
+- [Depale™](https://depalehaiti.com) — The Haitian party game celebrating language, culture, and humor.
 - [Haitian Quest](https://rattlerstudios.itch.io/haitianquest) — A fast-paced 2D side-scrolling platformer where you race through Haitian streets to make it to church on time.
 - [Anba Lavil](https://www.chokarella.com/2026/04/10/carel-in-the-morning-anba-lavil-un-jeu-video-haitien-en-developpement-porte-par-met-istwa) — An independent 3D video game by Mèt Istwa, exploring urban life and stories from Haiti's streets.
 - [BOHIO Generation](https://nico-arch.itch.io/bohio-generation) — A sci-fi transmedia project (comic + video game) rooted in Haitian cultural heritage and post-earthquake narratives.
@@ -93,7 +93,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 > Maker projects, electronics, robotics, and embedded systems.
 
 - [Haiti Flying Labs](https://flyinglabs.org/haiti) — A local drone and robotics hub using UAVs for disaster response, agriculture, infrastructure monitoring, and youth STEM education.
-- [Hector Foundation — DRILL & GEAR Lab](https://hectorfoundation.com/drill) — Haiti's first open-access engineering makerspace (Manus 1) and robotics training programs, from beginner DRILL camps to advanced GEAR Lab cohorts.
+- [Hector Foundation: DRILL & GEAR Lab](https://hectorfoundation.com/drill) — Haiti's first open-access engineering makerspace and robotics training pipeline, from beginner camps to advanced cohorts.
 - [iLab Haiti](https://ilabhaiti.org) — A social innovation lab using 3D printing and design thinking to produce medical supplies and solve local healthcare challenges.
 
 ## Events
