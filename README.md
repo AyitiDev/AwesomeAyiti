@@ -43,7 +43,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 
 - [Kaw Academy](https://kawacademy.com) — A digital trade school teaching web design, marketing, and tech skills entirely in Haitian Creole (150K+ students).
 - [Aprann](https://www.aprann.org) — Fighting poverty through tech education with laptops, training, and job creation partnerships in Haiti.
-- [Ayitic Goes Global](https://ayitic.net/en/itpros.html) — LACNIC's cooperation project offering tutored online courses in networking, security, CSIRT operations, IPv6, and DNS for Haitian IT professionals.
+- [Ayitic Goes Global](https://ayitic.net) — A LACNIC and IDRC initiative (2017–2019) increasing women's access to employment in Haiti through digital skills training, employability support, and internet development.
 
 ## Startups
 
@@ -72,7 +72,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 
 > Security resources, communities, and projects.
 
-- [Ayitic](https://ayitic.net) — LACNIC's cooperation project strengthening Haitian cybersecurity professionals through training in CSIRT operations, network security, and incident response.
+- [Ayitic](https://ayitic.net/old/en/index.html) — LACNIC's earlier initiative (2013–2016) training Haitian IT professionals in network management, security, wireless technology, IPv6, and CSIRT operations.
 - [Cyber Security Haiti](https://cybersecurityhaiti.com) — G5 Cyber Security's Haiti-dedicated hub providing cybersecurity services, threat intelligence, and awareness for the Haitian market.
 
 ## Games & Simulations
