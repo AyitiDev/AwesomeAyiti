@@ -26,6 +26,8 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 - [ht-i18n](https://github.com/mrsaget2003/ht-i18n) — The first npm i18n library with native Kreyòl Ayisyen support, under 3KB gzipped.
 - [Kolektif](https://github.com/Ayiti-Analytics/Kolektif) — An open knowledge bank and collaborative platform for data-driven solutions to Haiti's challenges.
 - [Kreyòl-MT](https://github.com/JHU-CLSP/Kreyol-MT) — Machine Translation models for Latin American, Caribbean, and Colonial African Creole languages, including Haitian.
+- [CreoleTranslator-android](https://github.com/jbaker00/CreoleTranslator-android) — An open-source Haitian Creole / English voice translator for Android using Groq AI.
+- [ht_localization](https://github.com/midsonlajeanty/ht_localization) — A Flutter package adding native Haitian Creole (ht) localization support for Flutter apps.
 
 ## Communities
 
@@ -44,6 +46,9 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 - [Kaw Academy](https://kawacademy.com) — A digital trade school teaching web design, marketing, and tech skills entirely in Haitian Creole (150K+ students).
 - [Aprann](https://www.aprann.org) — Fighting poverty through tech education with laptops, training, and job creation partnerships in Haiti.
 - [Ayitic Goes Global](https://ayitic.net) — A LACNIC and IDRC initiative (2017–2019) increasing women's access to employment in Haiti through digital skills training, employability support, and internet development.
+- [Kreyoltek.tech](https://kreyoltek.tech) — "Teknoloji pou tout moun" — free tech courses, videos, and podcasts entirely in Haitian Creole.
+- [Kreyolo](https://www.kreyolo.app) — A free mobile app teaching Haitian Creole to foreigners through interactive lessons with audio.
+- [Tradwi Kreyòl](https://play.google.com/store/apps/details?id=com.traduikreyol.traduiapp) — A Haitian Creole translation app (iOS & Android) for translating between Kreyòl and other languages.
 
 ## Startups
 
@@ -57,6 +62,10 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 - [Dessalines AI](https://dessalinesai.io) — Haiti's first AI-powered savings protocol, digitizing the traditional *eso* on the Base blockchain.
 - [Mannitòks](https://mannitoks.com) — A Haitian fintech for digital, mobile, and banking payments with personal and business accounts.
 - [Syntax Studio](https://www.syntaxstudio.dev) — A Port-au-Prince-based software engineering studio building web, mobile, and AI-powered products.
+- [BanjDev](https://banjdev.ht) — A freelance marketplace connecting Haitian developers and digital workers with businesses for projects and opportunities.
+- [AyitiLab](https://lenouvelliste.com/en/article/269214/ayitilab-launch-of-a-technology-startup-accelerator-for-haitian-youth) — A technology startup accelerator launched by Fondation Avenir, ESIH, and MCI aiming to support 100 Haitian startups.
+- [Bizkreyol](https://bizkreyol.com) — A Haitian business directory and community platform with 1,500+ businesses across the US, Canada, and Haiti.
+- [Kreyatika](https://kreyatika.com) — A Haitian digital marketing and web design agency serving local businesses and government institutions.
 
 ## AI & Machine Learning
 
