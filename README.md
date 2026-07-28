@@ -1,8 +1,8 @@
 # Awesome Ayiti 🇭🇹
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/AyitiDev/AwesomeAyiti/)
-[![Last Commit](https://img.shields.io/github/last-commit/AyitiDev/AwesomeAyiti)](https://github.com/AyitiDev/AwesomeAyiti/commits/main)
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/AyitiDev/AwesomeAyitiTech/)
+[![Last Commit](https://img.shields.io/github/last-commit/AyitiDev/AwesomeAyitiTech)](https://github.com/AyitiDev/AwesomeAyitiTech/commits/main)
 
 A curated list of awesome Haitian tech resources, open-source projects, communities, startups, and learning materials.
 
