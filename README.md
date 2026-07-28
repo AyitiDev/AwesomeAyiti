@@ -49,6 +49,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 - [Kreyoltek.tech](https://kreyoltek.tech) — "Teknoloji pou tout moun" — free tech courses, videos, and podcasts entirely in Haitian Creole.
 - [Kreyolo](https://www.kreyolo.app) — A free mobile app teaching Haitian Creole to foreigners through interactive lessons with audio.
 - [Tradwi Kreyòl](https://play.google.com/store/apps/details?id=com.traduikreyol.traduiapp) — A Haitian Creole translation app (iOS & Android) for translating between Kreyòl and other languages.
+- [Haiti Tec](https://haititec-edu.com) — A technical and professional school in Haiti offering vocational training aligned with business needs and international standards.
 
 ## Startups
 
@@ -66,6 +67,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 - [AyitiLab](https://lenouvelliste.com/en/article/269214/ayitilab-launch-of-a-technology-startup-accelerator-for-haitian-youth) — A technology startup accelerator launched by Fondation Avenir, ESIH, and MCI aiming to support 100 Haitian startups.
 - [Bizkreyol](https://bizkreyol.com) — A Haitian business directory and community platform with 1,500+ businesses across the US, Canada, and Haiti.
 - [Kreyatika](https://kreyatika.com) — A Haitian digital marketing and web design agency serving local businesses and government institutions.
+- [AYITI GROUP](https://ayitigroup.com) — An institutional holding group (est. 2026) driving infrastructure, aviation, technology, and diaspora investment across Haiti.
 
 ## AI & Machine Learning
 
