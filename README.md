@@ -58,6 +58,8 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 - [Antreprann.ht](https://antreprann.ht) — Haiti's first centralized digital database connecting entrepreneurs, support networks, and funding sectors.
 - [Banj](https://banj.ht) — A premier Port-au-Prince co-working hub and Google Launchpad-powered startup accelerator.
 - [Plop Plop](https://plopplop.ht) — Haiti's homegrown all-in-one super-app for ride-hailing, food delivery, and express logistics across multiple cities.
+- [D-Eat](https://apps.apple.com/us/app/d-eat-food-groceries/id6761042004) — A Haitian food and grocery delivery app available on iOS and Android, connecting local restaurants with customers.
+- [Click N' Eat Haiti](https://play.google.com/store/apps/details?id=com.myhungrypal.karl_henryjean_guillaume.clickneat) — A Haitian food delivery platform connecting users with local restaurants across Haiti.
 - [Bazik](https://bazik.io) — A developer-first MonCash API gateway for instant payment processing in Haiti (under 200ms response).
 - [Palmis Labs](https://www.palmislabs.com) — Bringing specialized AI to Haiti through small language models in Creole and French for healthcare, finance, education, and agriculture.
 - [Dessalines AI](https://dessalinesai.io) — Haiti's first AI-powered savings protocol, digitizing the traditional *eso* on the Base blockchain.
