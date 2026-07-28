@@ -33,7 +33,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 
 > Tech communities, meetups, and organizations.
 
-- [Haitians in Tech](https://haitiansintech.com) — A global open-source community bridging the Haitian diaspora and local technical talent.
+- [Haitians in Tech](https://haitiansintech.org) — A global open-source community bridging the Haitian diaspora and local technical talent.
 - [Coding Club Haïti](https://codingclubhaiti.com) — A nationwide tech community with coding clubs across Haitian cities, offering education, hackathons, and build projects.
 - [DevHaiti](https://www.devhaiti.org) — On a mission to turn Haiti into the engineering powerhouse of the Caribbean, providing mentorship, scholarships, and community.
 - [tichaiti](https://github.com/tichaiti/about-tichaiti) — A Slack-based Haitian tech community (tic + Ayiti) with live tech-talks, open-source projects, and peer learning.
