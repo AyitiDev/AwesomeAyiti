@@ -38,6 +38,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 - [DevHaiti](https://www.devhaiti.org) — On a mission to turn Haiti into the engineering powerhouse of the Caribbean, providing mentorship, scholarships, and community.
 - [tichaiti](https://github.com/tichaiti/about-tichaiti) — A Slack-based Haitian tech community (tic + Ayiti) with live tech-talks, open-source projects, and peer learning.
 - [AyitiDev](https://github.com/AyitiDev) — The open-source organization behind Awesome Ayiti, curating Haitian tech resources and fostering contributor community. [Join the Discord](https://discord.gg/h4vEVwSp8).
+- [HART'S Haiti Inc.](https://hartscommunity.org/) — is a nonprofit organization pioneering education, creativity, and technology for social impact.
 
 ## Learning Resources
 
@@ -50,6 +51,7 @@ A curated list of awesome Haitian tech resources, open-source projects, communit
 - [Kreyolo](https://www.kreyolo.app) — A free mobile app teaching Haitian Creole to foreigners through interactive lessons with audio.
 - [Tradwi Kreyòl](https://play.google.com/store/apps/details?id=com.traduikreyol.traduiapp) — A Haitian Creole translation app (iOS & Android) for translating between Kreyòl and other languages.
 - [Haiti Tec](https://haititec-edu.com) — A technical and professional school in Haiti offering vocational training aligned with business needs and international standards.
+- [UNITECH](https://www.iau-hesd.net/university/university-technology-haiti) — Founded in 1997, the University of Technology of Haiti (UNITECH) is a leading private institution dedicated to advancing science, technology, and innovation in Haiti.
 
 ## Startups
 
